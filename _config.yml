@@ -1,0 +1,4 @@
+# 添加如下内容至站点_config.yml || Add the following content to the site _config.yml
+search:
+  path: search.xml
+  field: post
